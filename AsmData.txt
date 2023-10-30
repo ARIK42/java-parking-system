@@ -1,0 +1,18 @@
+License Plate: CK7599
+Colour: Red
+Duration: 1.0 hour(s)
+Hourly Rate: $4.0 per hour
+Total bill: $4.0
+
+License Plate: IR1190
+Colour: Green
+Duration: 0.5 hour(s)
+Hourly Rate: $3.0 per hour
+Total bill: $1.5
+
+License Plate: YI3677
+Colour: Blue
+Duration: 3.0 hour(s)
+Hourly Rate: $4.0 per hour
+Total bill: $12.0
+
